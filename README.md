@@ -1,4 +1,4 @@
-# How_Network_Topology_Shapes_Opinion_Dynamics_Process
+# How Network Topology Shapes Opinion Dynamics Process
 In this study, a group of interacting individuals among whom the process of opinion generation takes place is considered. This project consists of two main chapters that, through theoretical analysis and simulation experiments, aim to answer several key questions regarding opinion dynamics:
 - **Chapter 1** focuses on DeGroot model and it aims to understand if and under what conditions the individuals’ opinions converge in different scenarios. 
 - **Chapter 2** considers the EPO model and it investigates if there is a direct relationship between key model parameters and the structural characteristics of the network.
