@@ -3,7 +3,7 @@ In this study, a group of interacting individuals among whom the process of opin
 - **Chapter 1** focuses on DeGroot model and it aims to understand if and under what conditions the individuals’ opinions converge in different scenarios. 
 - **Chapter 2** considers the EPO model and it investigates if there is a direct relationship between key model parameters and the structural characteristics of the network.
 
-The complete report is available [here](./Project_CCNS_Romano.pdf).
+The complete report is available [here](./Project_CCSN_Romano.pdf).
 
 ## DeGroot Model
 
